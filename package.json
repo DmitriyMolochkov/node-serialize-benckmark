@@ -1,0 +1,16 @@
+{
+  "name": "node-serialize-benckmark",
+  "version": "1.0.0",
+  "description": "",
+  "main": "binary-serialize.js",
+  "scripts": {
+    "binary-serialize": "node binary-serialize.js",
+    "json-serialize": "node json-serialize.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bson": "^4.6.3"
+  }
+}
